@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <div>
+      {/*<div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
@@ -16,18 +16,20 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
+  */}
+      <h1>Profesor, por problemas con una aerolínea que me dejó varado, y mayoritariamente por obligaciones personales familiares y laborales, sólo pude dedicarle al proyecto 1 día. Como se esperaría, no he avanzado absolutamente nada. Disculpe este incumplimiento.</h1>
+      <h2>Continuaré haciendo el proyecto ahora, sea para el Recuperatorio o para el recursado de la materia.</h2>
+      {/*<div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
-      </div>
-      <p className="read-the-docs">
+</div>*/}
+      {/*<p className="read-the-docs">
         Click on the Vite and React logos to learn more
-      </p>
+      </p>*/}
     </>
   )
 }
